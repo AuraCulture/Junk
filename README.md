@@ -7,6 +7,10 @@ junk
 
 <img width="1584" height="396" alt="Junk-modified" src="https://github.com/user-attachments/assets/f3285a85-ceab-4091-91d1-04d65305daa8" />
 
+[![PyPI version](https://badge.fury.io/py/junk-remover-cli.svg)](https://pypi.org/project/junk-remover-cli/)
+[![Python Version](https://img.shields.io/pypi/pyversions/junk-remover-cli.svg)](https://pypi.org/project/junk-remover-cli/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 A zero-friction Python CLI tool for automated cleanup of unwanted files and directories.
 

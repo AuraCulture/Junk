@@ -5,6 +5,9 @@
 junk
 ```
 
+<img width="1584" height="396" alt="Junk-modified" src="https://github.com/user-attachments/assets/f3285a85-ceab-4091-91d1-04d65305daa8" />
+
+
 A zero-friction Python CLI tool for automated cleanup of unwanted files and directories.
 
 ## Problem Statement

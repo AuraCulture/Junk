@@ -1,6 +1,10 @@
 
 # Junk - Universal Cleanup Executor
 
+```bash
+junk
+```
+
 A zero-friction Python CLI tool for automated cleanup of unwanted files and directories.
 
 ## Problem Statement
@@ -46,6 +50,14 @@ junk
 ### Step 1: Create Configuration File
 
 Create a `junk.fat` file in your project root directory. List files and directories to be removed, one per line:
+
+*Use a AI Agent to create junk.fat*
+
+```AI AGENT
+
+List junk files and folders as root-prefixed paths, one per line save as junk.fat
+
+```
 
 ```
 /target/

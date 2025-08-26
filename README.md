@@ -14,6 +14,7 @@ junk
 
 A zero-friction Python CLI tool for automated cleanup of unwanted files and directories.
 
+
 ## Problem Statement
 
 Development repositories often accumulate unwanted files and directories:

@@ -63,7 +63,7 @@ Create a `junk.fat` file in your project root directory. List files and director
 
 ```AI AGENT
 
-List junk files and folders as root-prefixed paths, one per line save as junk.fat
+List junk files (that is no longer need for production) and folders as root-prefixed paths, one per line save as junk.fat
 
 ```
 

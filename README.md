@@ -63,18 +63,19 @@ Create a `junk.fat` file in your project root directory. List files and director
 
 ```AI AGENT
 
-List junk files and folders as root-prefixed paths, one per line save as junk.fat
+List junk files (that is no longer need for production) and folders as root-prefixed paths, one per line save as junk.fat
 
 ```
 
 ```
-/target/
-/Server/plotter/output/main.png
-/Server/temp/arch.json
+images/
 __pycache__/
 *.log
-node_modules/
 .DS_Store
+.env.example
+node_modules/
+test_pinecone.py
+check_pinecone.py
 ```
 
 ### Step 2: Execute Cleanup

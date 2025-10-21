@@ -68,13 +68,14 @@ List junk files (that is no longer need for production) and folders as root-pref
 ```
 
 ```
-/target/
-/Server/plotter/output/main.png
-/Server/temp/arch.json
+images/
 __pycache__/
 *.log
-node_modules/
 .DS_Store
+.env.example
+node_modules/
+test_pinecone.py
+check_pinecone.py
 ```
 
 ### Step 2: Execute Cleanup

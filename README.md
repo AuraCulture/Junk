@@ -1,4 +1,4 @@
-# "I know this is trash; I don’t even know why I made this—probably inspired by the Einstein two-door puzzle, but with a cat twist."
+# "I know this is trash; I don’t even know why I made this—probably inspired by the Einstein two-door puzzle, but with a cat twist LOL"
 
 # Junk - Universal Cleanup Executor
 
